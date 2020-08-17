@@ -1,24 +1,29 @@
 <template>
- <div id="app">
-<mainweather/>
-<HelloWorld box="one"/>
-<HelloWorld box="two"/>
-<HelloWorld box="three"/>
-</div>
-
+  <div id="app">
+    <mainweather/>
+    <HelloWorld key=1 box="one"/>
+    <HelloWorld key=2 box="two"/>
+    <HelloWorld key=3 box="three"/>
+     <Footer id="foot"/>
+  </div>
 </template>
 
 <script>
 
 import HelloWorld from './components/HelloWorld.vue'
 import mainweather from './components/mainweather.vue'
+import Footer from './components/footer.vue'
+import {mapState} from 'vuex';
 export default {
   name: 'App',
   components: {
     HelloWorld,
     mainweather,
+    Footer,
   },
-//montserrat, light, ultralight
+   computed: {
+        ...mapState(['alltrue']),
+    },
 }
 </script>
 
@@ -39,6 +44,8 @@ export default {
   width:1608px;
   left:-90;
   top:-193;
-
+}
+#foot{
+  width:100%;
 }
 </style>

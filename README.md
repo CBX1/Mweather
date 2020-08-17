@@ -1,4 +1,4 @@
-# mailchimp
+# Mars Weather
 
 ## Project setup
 ```
