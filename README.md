@@ -1,4 +1,4 @@
-# mailchimp
+# Mweather
 
 ## Project setup
 ```
