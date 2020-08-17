@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85.276" height="85.276" viewBox="0 0 85.276 85.276">
+  <g id="meter" transform="translate(100 -930)">
+    <g id="Group_40" data-name="Group 40" transform="translate(-100 930)">
+      <g id="Group_39" data-name="Group 39">
+        <path id="Path_38" data-name="Path 38" d="M72.788,12.488a42.638,42.638,0,0,0-60.3,60.3,42.638,42.638,0,0,0,60.3-60.3ZM69.254,69.254A37.641,37.641,0,1,1,16.022,16.022,37.641,37.641,0,1,1,69.254,69.254Z" fill="#fff"/>
+        <rect id="Rectangle_15" data-name="Rectangle 15" width="4.997" height="9.993" transform="translate(40.14 13.324)" fill="#fff"/>
+        <rect id="Rectangle_16" data-name="Rectangle 16" width="9.993" height="4.996" transform="translate(30.814 27.156) rotate(-120.001)" fill="#fff"/>
+        <rect id="Rectangle_17" data-name="Rectangle 17" width="9.993" height="4.996" transform="translate(24.657 35.142) rotate(-149.999)" fill="#fff"/>
+        <rect id="Rectangle_18" data-name="Rectangle 18" width="9.993" height="4.997" transform="translate(13.324 40.14)" fill="#fff"/>
+        <rect id="Rectangle_19" data-name="Rectangle 19" width="9.993" height="4.997" transform="translate(61.958 40.14)" fill="#fff"/>
+        <rect id="Rectangle_20" data-name="Rectangle 20" width="9.993" height="4.996" transform="translate(58.118 30.814) rotate(-30.001)" fill="#fff"/>
+        <rect id="Rectangle_21" data-name="Rectangle 21" width="9.993" height="4.996" transform="translate(50.133 24.658) rotate(-59.999)" fill="#fff"/>
+        <path id="Path_39" data-name="Path 39" d="M422.1,393.463V373.047h-5v20.416a7.495,7.495,0,1,0,5,0Zm-2.5,9.564a2.5,2.5,0,1,1,2.5-2.5A2.5,2.5,0,0,1,419.6,403.027Z" transform="translate(-376.966 -341.235)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
