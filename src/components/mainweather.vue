@@ -29,6 +29,7 @@ export default {
     methods:{
         ...mapActions['setwindspeed','setpressure','set_temp_yesterday','settemp_today','setdate','setwinddirection','switchalltrue','switchalltruefalse'],
         async setStore(){
+            document.title= 'Weather on Mars';
             await this.$store.dispatch('switchalltruefalse');
           console.log(this.alltrue);
             await axios
