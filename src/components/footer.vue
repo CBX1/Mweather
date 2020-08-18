@@ -1,7 +1,7 @@
 <template>
     <div>
        <hr id="line"/> 
-       
+       <a href='https://github.com/CBX1/Mweather' target="_blank"> <img src="@/assets/github.svg" id="github"/> </a>
     </div>
 </template>
 
